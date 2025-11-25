@@ -53,9 +53,9 @@ See **[@tyconsa/bizuit-form-sdk](https://www.npmjs.com/package/@tyconsa/bizuit-f
 2. **Manual + Send All** - Custom UI with `formDataToParameters()` (good for simple forms)
 3. **Manual + Selective** - Custom UI with `buildParameters()` ⭐ **BEST PRACTICE** (production apps)
 
-[View full strategy guide →](https://github.com/bizuit/form-template/blob/main/packages/bizuit-form-sdk/README.md#form-implementation-strategies)
+[View full strategy guide →](https://github.com/TYCON-SA/bizuit-custom-form-sample/blob/main/packages/bizuit-form-sdk/README.md#form-implementation-strategies)
 
-[Live examples →](https://github.com/bizuit/form-template/tree/main/example/app)
+[Live examples →](https://github.com/TYCON-SA/bizuit-custom-form-sample/tree/main/example/app)
 
 ### Import Styles
 
@@ -124,7 +124,7 @@ function DynamicForm() {
 - `Xml` → Textarea (for XML/JSON)
 - `ComplexObject` → Textarea (JSON)
 
-[See live example →](https://github.com/bizuit/form-template/tree/main/example/app/example-1-dynamic)
+[See live example →](https://github.com/TYCON-SA/bizuit-custom-form-sample/tree/main/example/app/example-1-dynamic)
 
 ---
 
